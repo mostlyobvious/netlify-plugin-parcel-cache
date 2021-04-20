@@ -1,6 +1,6 @@
 {
   "name": "netlify-plugin-parcel-cache",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Netlify Build plugin - Speed up parcel builds by retaining its build cache.",
   "main": "src/index.js",
   "files": [
